@@ -130,20 +130,20 @@ export const testimonials = [
       "I would rate your service 5/5⭐️.You have done a fantastic job while doing my work, It was systematic work and it was quick service by Sai Karthik.I expected that it would take more than a week but it took less than that, And i also liked the designs made by Sai karthik. It was quite unique and user friendly designs",
     name: "Mayank lilani",
     title: "marketing Head",
-    img:'./tail.svg',
+    img:'./mayank.png',
   },
   {
     quote:
       "Sai Karthik has a really amazing work ethic and determination. He stands out for being adaptable and productive, which makes him a great asset to any project.It's amazing how well he can handle several jobs at once and provide excellent outcomes. His persistent dedication and enthusiasm for perfection are absolutely admirable.",
     name: "Aditya S nair",
     title: "President of Atal lab at DPSBN",
-    img:'',
+    img:'./aditya.png',
   },
   {
     quote:"Sai is a highly skilled frontend developer with a strong portfolio that demonstrates his technical expertise, creativity, and dedication to delivering exceptional user experiences. He is well-equipped to take on challenging projects and make a meaningful impact in any development team.",
     name:"Akash sarangi",
     title:"Head of the tech team",
-    img:'',
+    img:'./akash.png',
   }
   
 ];
