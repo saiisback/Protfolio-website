@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website](![image](https://github.com/user-attachments/assets/39ae6d25-5095-4112-be5f-7f935d8a79f0)) <!-- Add a link to your portfolio website's screenshot -->
+![Portfolio Website](https://github.com/user-attachments/assets/39ae6d25-5095-4112-be5f-7f935d8a79f0) <!-- Add a link to your portfolio website's screenshot -->
 
 ## Table of Contents
 
