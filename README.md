@@ -122,6 +122,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Sai Karthik Ketha - [Your Email](mailto:karthiksaiketha@example.com)
+Sai Karthik Ketha - [karthiksaiketha@gmail.com](mailto:karthiksaiketha@gmail.com)
 
 Project Link: [https://github.com/saiisback/protfolio-website](https://github.com/saiisback/protfolio-website)
