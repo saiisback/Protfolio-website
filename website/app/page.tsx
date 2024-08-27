@@ -1,6 +1,7 @@
 "use client";
 
 import { navItems } from "@/data";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from "@vercel/analytics/react"
 
 import Hero from "@/components/Hero";
@@ -18,6 +19,7 @@ const Home = () => {
       <div className="max-w-7xl w-full">
         <FloatingNav navItems={navItems} />
         <Analytics/>
+        <SpeedInsights/>
         <Hero />
         <Grid />
         <RecentProjects />
