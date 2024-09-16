@@ -122,6 +122,26 @@ export const projects = [
     link: "https://www.figma.com/design/eyENYXXU89WfBBHmLEf5qm/Music-Streaming-Service?node-id=0-1&t=HLA7C5LxCY6K0Es2-1",
     status:"Check Figma file",
   },
+  {
+    id: 6,
+    title: "Apple Iphone Ui Clone",
+    des: "A clone which redesigns the Apple iPhone website, with a dark mode with 3d models using GSAP.",
+    img: "/P6.png",
+    iconLists: ["/figma.svg"],
+    url:'/ui.iphone',
+    link: "https://iphonewebsite.vercel.app",
+    status:"Check Live Site",
+  },
+  {
+    id: 7,
+    title: "Brainware An Ai website",
+    des: "Brainware is an template for an AI website, with a dark mode and a contact form.",
+    img: "/P7.png",
+    iconLists: ["/figma.svg"],
+    url:'/ui.brainware',
+    link: "https://iphonewebsite.vercel.app",
+    status:"Check Figma file",
+  },
 ];
 
 export const testimonials = [
