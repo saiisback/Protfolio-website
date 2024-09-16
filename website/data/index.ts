@@ -127,7 +127,7 @@ export const projects = [
     title: "Apple Iphone Ui Clone",
     des: "A clone which redesigns the Apple iPhone website, with a dark mode with 3d models using GSAP.",
     img: "/P6.png",
-    iconLists: ["/figma.svg"],
+    iconLists: ["/three.svg","/re.svg","/tail.svg"],
     url:'/ui.iphone',
     link: "https://iphonewebsite.vercel.app",
     status:"Check Live Site",
@@ -137,10 +137,10 @@ export const projects = [
     title: "Brainware An Ai website",
     des: "Brainware is an template for an AI website, with a dark mode and a contact form.",
     img: "/P7.png",
-    iconLists: ["/figma.svg"],
+    iconLists: ["/re.svg","/tail.svg"],
     url:'/ui.brainware',
     link: "https://iphonewebsite.vercel.app",
-    status:"Check Figma file",
+    status:"Check Live Site",
   },
 ];
 
