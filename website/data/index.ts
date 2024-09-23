@@ -89,7 +89,7 @@ export const projects = [
     img: "/P2.png",
     iconLists: ["/html.svg", "/css.svg", "/javascript.svg",],
     url:'/ui.waycup.com',
-    link: "https://way-cup.github.io/waycup.github.io/",
+    link: "https://way-cup.github.io/waycup/",
     status:"Check live site",
   },
   {
